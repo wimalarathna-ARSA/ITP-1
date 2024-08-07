@@ -1,6 +1,6 @@
 # ITP
 ITP Project 
 
-first commit 
+First commit 
 
-second commit
+Second commit
